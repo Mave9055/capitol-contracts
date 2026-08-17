@@ -1,4 +1,7 @@
 # What Really Happened (WRH) Trauma Psychoeducation Program
+
+> **Scope note:** This document describes a 30-session pilot subset of the authoritative 76-session WRH Master Curriculum.
+
 ## Program Description for Federal and State Buyers
 
 ### Program Overview

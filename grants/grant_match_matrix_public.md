@@ -1,4 +1,7 @@
 # Grant Match Matrix: Public Alignment Overview
+
+> **Scope note:** This document describes an 18-module grant-specific framework, not the authoritative 76-session WRH Master Curriculum.
+
 ## Capitol Contracts LLC | Trauma Literacy Curriculum
 
 ### Overview

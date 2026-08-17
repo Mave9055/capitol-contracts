@@ -1,5 +1,8 @@
 # Capitol Contracts LLC Capability Statement
 
+> **Scope note:** This document describes a 30-session pilot subset of the authoritative 76-session WRH Master Curriculum.
+
+
 ## What Really Happened (WRH) Pilot Deployment
 
 **Entity:** Capitol Contracts LLC  

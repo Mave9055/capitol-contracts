@@ -1,5 +1,8 @@
 # VA-Ready Program Description: What Really Happened (WRH) Pilot Manual
 
+> **Scope note:** This document describes a 30-session pilot subset of the authoritative 76-session WRH Master Curriculum.
+
+
 ## Program Overview
 
 The "What Really Happened" (WRH) program is a 30-session, evidence-informed psychoeducational intervention designed to address the complex sequelae of chronic and pervasive psychological trauma, often referred to as Complex Post-Traumatic Stress Disorder (CPTSD). Utilizing a novel **Non-Exposure Psychoeducation** framework, WRH aims to enhance participants' understanding of trauma's neurobiological and psychological impacts without requiring direct re-exposure to traumatic memories. This approach mitigates the risk of re-traumatization while fostering cognitive restructuring and emotional regulation skills.
