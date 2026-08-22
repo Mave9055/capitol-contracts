@@ -50,12 +50,13 @@ Additional NAICS/PSC codes should be verified before formal submission or reuse.
 
 ## Related Project Repositories
 
-- **WRH Master Curriculum:** https://github.com/Mave9055/wrh-master-curriculum
-- **WRH Pilot Deployment Package:** https://github.com/Mave9055/WRH-Pilot-Deployment-Package
-- **Top 10 Core:** https://github.com/Mave9055/top-10-core
-- **Repository Showcase:** https://mave9055.github.io/Mave9055/repo-showcase.html
-- **Public Landing Page:** https://mave9055.github.io/Mave9055/
-- **Book Production Workflow:** https://github.com/Mave9055/from-storm-to-fire-book-production
+- **Project-system map and technical portfolio:** https://daniel-lingar.github.io/technical-prompt-engineer-portfolio/
+- **WRH Master Curriculum:** https://github.com/daniel-lingar/wrh-master-curriculum
+- **WRH public curriculum site:** https://daniel-lingar.github.io/wrh-master-curriculum/
+- **The Rescue Boat public education platform:** https://github.com/daniel-lingar/rescue-boat
+- **Canonical From the Storm to the Fire manuscript:** https://github.com/daniel-lingar/from-the-storm-to-the-fire
+- **Book-production archive:** https://github.com/daniel-lingar/from-storm-to-fire-book-production
+- **Johnson County Civil War Archive:** https://github.com/daniel-lingar/horner-archive
 
 ## Scope Boundary
 
